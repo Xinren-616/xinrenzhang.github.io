@@ -61,6 +61,9 @@ Publications
 **Improve the Training Efficiency of DRL for Wireless Communication Resource Allocation: The Role of Generative Diffusion Models**<br>
 <span style="color: #D0005F;">Xinren Zhang</span> and Jiadong Yu. <br>
 <i>IEEE Transactions on Wireless Communications</i>, Feb. 2026. [<a href="https://ieeexplore.ieee.org/document/11391481" style="color:#9B0145;">Paper</a>]<br>
+**Learning Multi-Agent Communication Protocol: Study on Information Entropy Efficiency in MARL**<br>
+<span style="color: #D0005F;">Xinren Zhang</span>, Zixin Zhong and Jiadong Yu<br>
+<i>Reinforcement Learning Conference</i>, Aug. 2026.
 **Network Topology and Information Efficiency of Multi-Agent Systems: Study based on MARL**<br>
 <span style="color: #D0005F;">Xinren Zhang</span>, Sixi Cheng, Zixin Zhong and Jiadong Yu. <br>
 <i>Preprint.</i> [<a href="https://arxiv.org/pdf/2510.07888" style="color:#9B0145;">arXiv</a>]<br>
