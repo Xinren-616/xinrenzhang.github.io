@@ -8,8 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-I am going to join the Information Hub Internet of Things Thrust at The <a href="https://www.hkust-gz.edu.cn/" style="color:#9B0145;">Hong Kong University of Science and Technology (Guangzhou)</a> as a PhD student
-under the supervision of Prof. <a href="https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page/YU-Jiadong/jiadongyu" style="color:#9B0145;">Jiadong Yu</a>. My research interests lie in multi-agent reinforcement learning, statistical signal processing. I obtained my master's degree in Information and Communication Engineering in Jun. 2024 at the <a href="https://en.wikipedia.org/wiki/University_of_Science_and_Technology_of_China" style="color:#9B0145;">University of Science and Technology of China</a>, where my advisor was Prof. <a href="https://owc.ustc.edu.cn/2014/0818/c10523a116333/page.htm" style="color:#9B0145;">Zhengyuan Xu</a>.
+I am a PhD student in the Information Hub Internet of Things Thrust at The <a href="https://www.hkust-gz.edu.cn/" style="color:#9B0145;">Hong Kong University of Science and Technology (Guangzhou)</a>
+under the supervision of Prof. <a href="https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page/YU-Jiadong/jiadongyu" style="color:#9B0145;">Jiadong Yu</a> and Prof. <a href="Prof. <a href="https://jiadong-yu.github.io/Bio/" style="color:#9B0145;">Jiadong Yu</a>" style="color:#9B0145;">Hui Xiong</a>. My research interests lie in multi-agent reinforcement learning, statistical signal processing. I obtained my master's degree in Information and Communication Engineering in Jun. 2024 at the <a href="https://en.wikipedia.org/wiki/University_of_Science_and_Technology_of_China" style="color:#9B0145;">University of Science and Technology of China</a>, where my advisor was Prof. <a href="https://owc.ustc.edu.cn/2014/0818/c10523a116333/page.htm" style="color:#9B0145;">Zhengyuan Xu</a>.
 
 Education
 ======
