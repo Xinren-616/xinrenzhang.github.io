@@ -16,6 +16,7 @@ Education
 * M.E. in University of Science and Technology of China (<a href="https://en.wikipedia.org/wiki/University_of_Science_and_Technology_of_China" style="color:#9B0145;">USTC</a>), top 15%, 2021–2024
 * Exchange student in National Taiwan University (<a href="https://en.wikipedia.org/wiki/National_Taiwan_University" style="color:#9B0145;">NTU</a>), Feb. 2019 – June. 2019
 * PhD student in the Hong Kong University of Science and Technology (Guangzhou) (<a href="https://www.hkust-gz.edu.cn/" style="color:#9B0145;">HKUSTGZ</a>), 2025-present
+  
 Projects
 ======
 * Aug. 2023 – Nov. 2023: Smart Taxing - Personal Decision Optimisation
