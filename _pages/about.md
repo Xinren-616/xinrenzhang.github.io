@@ -8,14 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student in the Information Hub Internet of Things Thrust at The <a href="https://www.hkust-gz.edu.cn/" style="color:#9B0145;">Hong Kong University of Science and Technology (Guangzhou)</a> under the supervision of Prof. <a href="https://jiadong-yu.github.io/Bio/" style="color:#9B0145;">Jiadong Yu</a> and Prof. <a href="https://ailab.hkust-gz.edu.cn/" style="color:#9B0145;">Hui Xiong</a>. My research interests lie in multi-agent reinforcement learning, statistical signal processing. I obtained my master's degree in Information and Communication Engineering in Jun. 2024 at the <a href="https://en.wikipedia.org/wiki/University_of_Science_and_Technology_of_China" style="color:#9B0145;">University of Science and Technology of China</a>, where my advisor was Prof. <a href="https://owc.ustc.edu.cn/2014/0818/c10523a116333/page.htm" style="color:#9B0145;">Zhengyuan Xu</a>.
+I am a PhD student in the Information Hub Internet of Things Thrust at The <a href="https://www.hkust-gz.edu.cn/" style="color:#9B0145;">Hong Kong University of Science and Technology (Guangzhou)</a> under the supervision of Prof. <a href="https://jiadong-yu.github.io/Bio/" style="color:#9B0145;">Jiadong Yu</a> and Prof. <a href="https://ailab.hkust-gz.edu.cn/" style="color:#9B0145;">Hui Xiong</a>. My research interests lie in multi-agent reinforcement learning, difussion models. I obtained my master's degree in Information and Communication Engineering in Jun. 2024 at the <a href="https://en.wikipedia.org/wiki/University_of_Science_and_Technology_of_China" style="color:#9B0145;">University of Science and Technology of China</a>, where my advisor was Prof. <a href="https://owc.ustc.edu.cn/2014/0818/c10523a116333/page.htm" style="color:#9B0145;">Zhengyuan Xu</a>.
 
 Education
 ======
-* B.E. in Chongqing University (<a href="https://en.wikipedia.org/wiki/Chongqing_University" style="color:#9B0145;">CQU</a>), top 2%, Sep. 2017- Jun. 2021
-* M.E. in University of Science and Technology of China (<a href="https://en.wikipedia.org/wiki/University_of_Science_and_Technology_of_China" style="color:#9B0145;">USTC</a>), top 15%, Sep. 2021–Jun. 2024
+* B.E. in Chongqing University (<a href="https://en.wikipedia.org/wiki/Chongqing_University" style="color:#9B0145;">CQU</a>), top 2%, 2017-2021
+* M.E. in University of Science and Technology of China (<a href="https://en.wikipedia.org/wiki/University_of_Science_and_Technology_of_China" style="color:#9B0145;">USTC</a>), top 15%, 2021–2024
 * Exchange student in National Taiwan University (<a href="https://en.wikipedia.org/wiki/National_Taiwan_University" style="color:#9B0145;">NTU</a>), Feb. 2019 – June. 2019
-
+* PhD student in the Hong Kong University of Science and Technology (Guangzhou) (<a href="https://www.hkust-gz.edu.cn/" style="color:#9B0145;">HKUSTGZ</a>), 2025-present
 Projects
 ======
 * Aug. 2023 – Nov. 2023: Smart Taxing - Personal Decision Optimisation
